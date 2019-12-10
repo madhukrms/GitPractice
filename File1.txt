@@ -3,3 +3,5 @@ Creating the file to include new file in the repository
 Add 2 number
 int num1, num2;
 int addition = num1 +num2;
+
+System.out.println("Addition of 2 Num is: "+addition);
